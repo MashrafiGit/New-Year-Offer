@@ -34,7 +34,8 @@ new-year-offer<br/>
 ├── styles/<br/>
 │ └── style.css<br/>
 ├── images/<br/>
-└── icons/<br/>
+├── icons/<br/>
+└── README.md/<br/>
 
 
 ---
