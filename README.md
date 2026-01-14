@@ -1,6 +1,6 @@
 # New Year Offer Landing Page 🎉
 
-🔗 Live Demo: https://new-year-offer-steel.vercel.app/
+🔗 **Live Demo:** https://new-year-offer-steel.vercel.app/
 
 This is a **practice frontend project** built using **HTML and CSS**.  
 The project represents a New Year celebration and offer landing page with multiple sections such as banner, offers, party details, event information, portfolio, and newsletter subscription.
@@ -62,3 +62,9 @@ This project was created **for practice purposes** to:
 - The newsletter form is not connected to any backend
 - Designed mainly for desktop view
 - Fully focused on layout and design practice
+
+---
+
+✅ **Practice Project**  
+📌 **Frontend Only**  
+💡 **Learning-focused Implementation**
